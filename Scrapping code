@@ -1,0 +1,4 @@
+
+Scrapping code
+This includes the Python BeautifulSoup library code which scrapes Linkedin profile for Education, Experience, Profile picture and Awards and Google Scholar profile for Publications. As LinkedIn doesn't allow direct scrapping, saved html file of linkedin page is used.
+ 
